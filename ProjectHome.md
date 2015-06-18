@@ -1,0 +1,1 @@
+Android not provide any combind date-time picker. but this code will help you to get both date and time in a single dialog.
